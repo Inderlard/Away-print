@@ -1,8 +1,8 @@
 # Away-print
 
 Una exteriorizacion de la electronica de impresion 3D para asegurar su refrigeracion adecuada y comodidad de uso
-![](https://github.com/Inderlard/Hextar-Orthos/blob/main/Media/Away%20print%20closed.png?raw=true)
-![](https://github.com/Inderlard/Hextar-Orthos/blob/main/Media/Away%20print%20open.png?raw=true)
+![](https://github.com/Inderlard/Away-print/blob/main/Media/Away%20print%20closed.png?raw=true)
+![](https://github.com/Inderlard/Away-print/blob/main/Media/Away%20print%20open.png?raw=true)
 
 ## Materiales
 
